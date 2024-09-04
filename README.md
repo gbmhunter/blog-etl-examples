@@ -1,0 +1,1 @@
+This repo contains C++ Embedded Template Library (ETL) code examples for the mbedded.ninja blog (blog.mbedded.ninja).
